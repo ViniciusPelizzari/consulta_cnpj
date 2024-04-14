@@ -3,14 +3,14 @@
 Este projeto consiste em uma aplicação Java para consultar informações de um CNPJ utilizando a API do ReceitaWS. Ele realiza uma requisição HTTP para a API, obtém os dados de resposta no formato JSON e os converte para objetos Java usando a biblioteca Gson. Em seguida, os dados são exibidos na saída padrão.
 
 ##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"><br>
 </div>
 
 ## API e documentação
 <div style="display: inline_block">
   <a href="https://www.receitaws.com.br/#">Receita WS</a><br>
-  <a href="https://developers.receitaws.com.br/#/">Documentação API</a>
+  <a href="https://developers.receitaws.com.br/#/">Documentação API</a><br>
 </div>
 
  ##
