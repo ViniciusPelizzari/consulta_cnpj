@@ -8,7 +8,7 @@ Este projeto consiste em uma aplicação Java para consultar informações de um
 </div>
 
 ## API e documentação
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <a href="https://www.receitaws.com.br/#">Receita WS</a><br>
   <a href="https://developers.receitaws.com.br/#/">Documentação API</a>
 </div>
